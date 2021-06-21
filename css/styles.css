@@ -75,11 +75,12 @@ section {
   border-radius: 0 5px 5px 0;
   width: 540px;
   height: 446px;
-  background-color:var(--softviolet);
+  background-color: hsl(282, 80%, 41%, 0.5);
+  /* background-color:var(--softviolet); */
 }
 .stat-image img{
   border-radius: 0 5px 5px 0;
-  opacity: 50%;
+  opacity: 40%;
 }
 
 
